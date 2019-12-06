@@ -2,13 +2,9 @@
 
 function wpbootstrap_scripts_with_jquery() {
 	// Register the script like this for a theme:\
-	wp_register_script('main', get_template_directory_uri() . '/js/js.js', array('jquery'));
-	wp_register_script('slick-js', get_template_directory_uri() . '/js/vendor/slick.js');
-	wp_register_script('modernizr', get_template_directory_uri() . '/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js');
+	wp_register_script('main', get_template_directory_uri() . '/js/js.js', array('jquery'));	
 	// For either a plugin or a theme, you can then enqueue the script:
-	wp_enqueue_script( 'main' );
-	wp_enqueue_script('slick-js');
-	wp_enqueue_script('modernizr');
+	wp_enqueue_script( 'main' );	
 }
 add_action( 'wp_enqueue_scripts', 'wpbootstrap_scripts_with_jquery' );
 

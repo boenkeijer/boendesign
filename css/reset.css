@@ -1,0 +1,108 @@
+*, html {
+  /* Auto Calc Padding */
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
+  /* Smooth Font */
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  margin: 0; 
+  padding: 0;
+  outline: none;
+}
+
+body * {
+  display: block;  
+}
+
+a, span, strong, li, sub, sup, br {
+  display: inline-block;
+  width: auto;
+  float: none;
+}
+
+script,
+style {
+  display: none;
+}
+
+a, a:visited, a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+ul {
+  list-style-type: none;
+}
+
+audio, 
+canvas, 
+iframe, 
+img, 
+svg, 
+video { 
+  vertical-align: middle;
+}
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  resize: vertical;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px; 
+}
+
+select::-ms-expand { /* for IE 11 */
+  display: none;
+  border: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px; 
+}
+
+input[type=date]::-webkit-inner-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  display: none;
+}
+
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder {  
+  color: #E2E2E2; 
+}
+
+.flexslider {
+  display: block;
+  float: left;
+  width: 100%;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+.flex-control-nav {
+  display: none;
+}
+
+
+
+
+
+

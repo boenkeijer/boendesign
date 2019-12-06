@@ -7,7 +7,5 @@ Author: Koen Beijer
 Author URI: www.koenbeijer.nl
 */
 
+@import url('css/reset.css'); 
 @import url('css/css.css'); 
-body { 
-     padding: 0;
-}
