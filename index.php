@@ -2,11 +2,8 @@
 
 <main>
 	<section>
-		<div class="image">
-			Hier komt het logo.
-		</div>
+		<div class="image">Hier komt het logo.</div>
 		<h1>Binnenkort beschikbaar</h1>		
-		<h2>Tester</h2>
 	</section>
 </main>
 
