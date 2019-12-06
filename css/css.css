@@ -29,8 +29,8 @@ Template:       Boen Design
   /* ===== Main Container ===== */  
 
     main {
-      min-width: 100vw;
-      min-height: 100vw;    
+      width: 100vw;
+      height: 100vh;    
       display: flex;
       justify-content: center;
       align-items: center;
