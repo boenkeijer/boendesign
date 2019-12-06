@@ -6,7 +6,7 @@
 			Hier komt het logo.
 		</div>
 		<h1>Binnenkort beschikbaar</h1>		
-		<h2>Test</h2>
+		<h2>Tester</h2>
 	</section>
 </main>
 
