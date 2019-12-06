@@ -28,6 +28,19 @@ Template:       Boen Design
 
   /* ===== Main Container ===== */  
 
+    main {
+      min-width: 100vw;
+      min-height: 100vw;    
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    main > section {
+      
+
+    }
+
   /* ===== Sidebar ===== */     
     
   /* ===== Footer Container ===== */  
