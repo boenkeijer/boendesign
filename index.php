@@ -3,7 +3,7 @@
 <main>
 	<section>
 		<div class="image">Hier komt het logo.</div>
-		<h1>Binnenkort beschikbaar</h1>		
+		<h1>Binnenkort beschikbaarrr</h1>		
 	</section>
 </main>
 
